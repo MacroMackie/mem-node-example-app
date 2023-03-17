@@ -1,0 +1,22 @@
+{
+  "name": "mem-node-example-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacroMackie/mem-node-example-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacroMackie/mem-node-example-app/issues"
+  },
+  "homepage": "https://github.com/MacroMackie/mem-node-example-app#readme",
+  "dependencies": {
+    "@mem-labs/mem-node": "^0.1.1"
+  }
+}
